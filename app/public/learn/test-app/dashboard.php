@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>dashboard,</h1>
+    <p>this is only for the staf</p>
 </body>
 </html>
